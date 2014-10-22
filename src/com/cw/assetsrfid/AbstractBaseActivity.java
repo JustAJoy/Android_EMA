@@ -25,6 +25,7 @@ import com.cw.assetsrfid.login.logic.LoginManager;
 public class AbstractBaseActivity extends Activity {
 
 	/**
+	 * 
 	 * Application SFAAPPInfo
 	 */
 	public SFAAPPInfo appInfo;
